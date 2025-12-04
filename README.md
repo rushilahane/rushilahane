@@ -4,7 +4,7 @@
 <h3 align="center">Mobile app developer specializing in creating intuitive and visually appealing mobile UI experiences with a strong focus on accessibility and user-centered design.
     Using technologies like React Native, ReactJS, Javascript, and HTML/CSS.</h3>
 
-- 🌱 I’m currently working as **Software Developer** [@intangles](https://www.intangles.ai/)
+- 🌱 I’m currently working as **Senior Software Developer** [@intangles](https://www.intangles.ai/)
 
 - 👯 I’m looking to collaborate on **OpenSource Projects.**
 
